@@ -8,3 +8,11 @@
 *.log
 *.synctex.gz
 *.toc
+.DS_Store
+
+# Until publication
+head/
+assets/
+main/
+tail/
+my_thesis.tex
